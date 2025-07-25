@@ -1,6 +1,6 @@
 ### Hi, I'm Shaun!
 
-🪴 Software engineer specializing in the intersection of Digital Signal Processing, Immersive Audio, and Audio Perception <br> 👨‍🎓 Studied Music Technology at New York University (Master's Degree)<br>👨‍💻 Feel free to explore my projects at: https://github.com/ShaunakAudioAlchemy?tab=repositories
+🪴 Software engineer specializing in Digital Signal Processing, Immersive Audio, and Audio Perception <br> 👨‍🎓 Studied Music Technology at New York University (Master's Degree)<br>👨‍💻 Feel free to explore my projects at: https://github.com/ShaunakAudioAlchemy?tab=repositories
 
 # 💫 About Me:
 🔭 Worked on Foley Sound Synthesis using GPT-2 and EnCodec for my Master's Thesis <br>👯 Collaborating on a research project focused on enhancing externalization of binaural audio
