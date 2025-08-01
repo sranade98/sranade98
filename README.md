@@ -1,4 +1,4 @@
-### Hi, I'm Shaun!
+### Hi, I'm Shaunak!
 
 🪴 Software engineer specializing in Digital Signal Processing, Immersive Audio, and Audio Perception <br> 👨‍🎓 Studied Music Technology at New York University (Master's Degree)<br>👨‍💻 Feel free to explore my projects at: https://github.com/ShaunakAudioAlchemy?tab=repositories
 
