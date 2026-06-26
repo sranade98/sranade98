@@ -2,9 +2,9 @@
 
 <h1>Hi, I'm Shaunak 👋</h1>
 
-<h2>
+<h1>
 Audio Software Engineer | DSP | Immersive Audio
-</h2>
+</h1>
 
 </p>
 
