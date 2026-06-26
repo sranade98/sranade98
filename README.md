@@ -29,7 +29,6 @@ I'm an **Audio Software Engineer** specializing in:
 - 🎧 Digital Signal Processing (DSP)
 - 🌐 Immersive & Spatial Audio
 - 🎹 Music Information Retrieval (MIR)
-- ⚡ Real-Time Audio Systems
 - 💻 Full-Stack Application Development
 
 Currently building audio software at **GetNoisy**.
@@ -89,14 +88,7 @@ Currently building audio software at **GetNoisy**.
 
 ---
 
-## 🎯 Areas of Interest
 
-- Digital Signal Processing (DSP)
-- Audio Application Development
-- Music Information Retrieval (MIR)
-- Spatial & Immersive Audio
-- Audio Machine Learning
-- ADS-B & Software Defined Radio
 
 ---
 
