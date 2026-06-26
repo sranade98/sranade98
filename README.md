@@ -1,18 +1,18 @@
 <table>
 <tr>
-<td width="70%">
+<td width="75%">
 
 <h1>Hi, I'm Shaunak 👋</h1>
 
 <h3>
-Audio Software Engineer • Digital Signal Processing • Immersive Audio
+Audio Software Engineer • DSP • Immersive Audio
 </h3>
 
 </td>
 
-<td width="30%">
+<td width="25%" align="right">
 
-<img width="240" src="tintin-wave.gif"/>
+<img width="120" src="YOUR_GIF_URL"/>
 
 </td>
 </tr>
