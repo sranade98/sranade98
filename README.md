@@ -30,6 +30,9 @@
     <br>
     <img width="30px" src="https://img.icons8.com/color/48/javascript--v1.png" />
     <img width="30px" src="https://img.icons8.com/fluency/48/node-js.png" />
+    <img width="30px" src="https://img.icons8.com/color/48/python--v1.png" />
+    <img width="30px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-color-tal-revivo.png" />
+    
     
   </kbd>
   <kbd>
