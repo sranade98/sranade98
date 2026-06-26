@@ -18,7 +18,7 @@
   </em> 
   <br>
 <div align= "center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Tecnologias em aprendizado</i></b> 
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Tech Stack</i></b> 
 </div>
 
 <br>
@@ -28,10 +28,8 @@
     <kbd>Back-end</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> 
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+    <img width="30px" src="https://img.icons8.com/color/48/javascript--v1.png" />
+    
   </kbd>
   <kbd>
     <kbd>Front-end</kbd>
