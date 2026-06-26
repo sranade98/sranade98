@@ -1,37 +1,31 @@
-<p align="left">
+<h1 align="center">Hi, I'm Shaunak 👋</h1>
 
-<h1>Hi, I'm Shaunak 👋</h1>
-
-<h2>
+<h3 align="center">
 Audio Software Engineer | DSP | Immersive Audio
-</h2>
+</h3>
 
-</p>
-
-<div align="right">
-<img width="180" src="tintin-wave.gif"/>
-</div>
-
-<p align="top">
 <p align="center">
-<a href="mailto:ssranade98@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:ssranade98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/sranade98/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/sranade98/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
-<img align="center" width="240" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+<!-- CENTERED GIF (FIXED) -->
+<p align="center">
+  <img width="180" src="tintin-wave.gif"/>
+</p>
 
-
+---
 
 ## 👨‍💻 About Me
 
 I'm an **Audio Software Engineer** specializing in:
 
-- 📟 Audio Application Devlopment
+- 📟 Audio Application Development
 - 🎧 Digital Signal Processing (DSP)
 - 🌐 Immersive & Spatial Audio
 - 🎹 Music Information Retrieval (MIR)
@@ -42,18 +36,10 @@ Currently building audio software at **GetNoisy**.
 
 ---
 
+## 🛠️ Tech Stack
+
+### Languages
 <p align="center">
-
-### 🛠️ Tech Stack
-
-</div>
-
-<p align="center">
-
-<kbd>
-<kbd>Languages</kbd>
-<br><br>
-
 <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png"/>
 <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/>
 <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"/>
@@ -62,57 +48,59 @@ Currently building audio software at **GetNoisy**.
 <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"/>
 <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png"/>
 <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png"/>
-
-</kbd>
-
-<kbd>
-<kbd>Frontend</kbd>
-<br><br>
-
-<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png"/>
-<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/electron.png"/>
-<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png"/>
-
-</kbd>
-
-<kbd>
-<kbd>Backend</kbd>
-<br><br>
-
-<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png"/>
-<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png"/>
-<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"/>
-
-</kbd>
-
-<br><br>
-
-<p align="center">
-
-<kbd>
-<kbd>Libraries</kbd>
-<br><br>
-
-<img height="22" src="https://img.shields.io/badge/JUCE-8DC63F?logo=juce&logoColor=white"/>
-<img height="22" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
-<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png"/>
-<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/scipy.png"/>
-
-</kbd>
-
-<kbd>
-<kbd>Tools</kbd>
-<br><br>
-
-<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"/>
-<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"/>
-<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png"/>
-
-</kbd>
 </p>
 
 ---
 
+### Frontend
+<p align="center">
+<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png"/>
+<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/electron.png"/>
+<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png"/>
+</p>
 
+---
 
-📫 **Reach me at:** **ssranade98@gmail.com**
+### Backend
+<p align="center">
+<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png"/>
+<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png"/>
+<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"/>
+</p>
+
+---
+
+### Libraries / Frameworks
+<p align="center">
+<img height="22" src="https://img.shields.io/badge/JUCE-8DC63F?logo=juce&logoColor=white"/>
+<img height="22" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
+<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png"/>
+<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/scipy.png"/>
+</p>
+
+---
+
+### Tools
+<p align="center">
+<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"/>
+<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"/>
+<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png"/>
+</p>
+
+---
+
+## 🎯 Areas of Interest
+
+- Digital Signal Processing (DSP)
+- Audio Application Development
+- Music Information Retrieval (MIR)
+- Spatial & Immersive Audio
+- Audio Machine Learning
+- ADS-B & Software Defined Radio
+
+---
+
+## 📫 Contact
+
+**Email:** ssranade98@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/sranade98/
