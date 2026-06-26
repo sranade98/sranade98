@@ -6,6 +6,27 @@
 Audio Software Engineer | DSP | Immersive Audio
 </h2>
 
+</p>
+
+<div align="right">
+<img width="180" src="tintin-wave.gif"/>
+</div>
+
+<p align="top">
+<p align="center">
+<a href="mailto:ssranade98@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sranade98/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+<img align="right" width="240" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
+
+
 ## 👨‍💻 About Me
 
 I'm an **Audio Software Engineer** specializing in:
@@ -18,28 +39,6 @@ I'm an **Audio Software Engineer** specializing in:
 - 💻 Full-Stack Application Development
 
 Currently building audio software at **GetNoisy**.
-
-</p>
-
-<div align="right">
-<img width="180" src="tintin-wave.gif"/>
-</div>
-
-<p align="center">
-  <a href="mailto:ssranade98@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/sranade98/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-<img align="right" width="240" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
-
-
-  
-
 
 ---
 
