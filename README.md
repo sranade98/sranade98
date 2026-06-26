@@ -10,8 +10,7 @@ Audio Software Engineer | DSP | Immersive Audio
 
 <div align="right">
 <img width="120" src="tintin-wave.gif"/>
-
-
+</div>
 
 <p align="center">
   <a href="mailto:ssranade98@gmail.com">
