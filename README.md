@@ -31,6 +31,7 @@
     <br>
     <img width="30px" src="https://img.icons8.com/color/48/python--v1.png" />
     <img width="30px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-color-tal-revivo.png" />
+    <img width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/>
   </kbd>
   <kbd>
     <kbd>Front-end</kbd>
