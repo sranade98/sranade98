@@ -1,22 +1,18 @@
-<table>
-<tr>
-<td width="75%">
+<div align="center">
+
+<div align="left">
 
 <h1>Hi, I'm Shaunak 👋</h1>
 
 <h3>
-Audio Software Engineer • DSP • Immersive Audio
+Audio Software Engineer • Digital Signal Processing • Immersive Audio
 </h3>
 
-</td>
+</div>
 
-<td width="25%" align="right">
+<img align="right" width="120" src="tintin-wave.gif"/>
 
-<img width="120" src="tintin-wave.gif"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 <p align="center">
   <a href="mailto:ssranade98@gmail.com">
