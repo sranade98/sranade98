@@ -9,7 +9,7 @@ Audio Software Engineer | DSP | Immersive Audio
 </p>
 
 <div align="right">
-<img width="120" src="tintin-wave.gif"/>
+<img width="180" src="tintin-wave.gif"/>
 </div>
 
 <p align="center">
