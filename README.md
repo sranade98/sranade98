@@ -103,12 +103,10 @@ Currently building audio software at **GetNoisy**.
 ### 🎯 Areas of Interest
 
 - Digital Signal Processing (DSP)
-- Audio Plugin Development (JUCE / VST3)
+- Audio Application Development 
 - Music Information Retrieval (MIR)
 - Spatial & Immersive Audio
 - Audio Machine Learning
-- Low-Latency Systems
-- Embedded Audio
 - ADS-B & Software Defined Radio
 
 ---
