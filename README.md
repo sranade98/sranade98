@@ -1,10 +1,6 @@
 ### Hi, I'm Shaunak!
 
-🪴 Software engineer specializing in Digital Signal Processing, Immersive Audio, and Audio Perception <br> 👨‍🎓 Studied Music Technology at New York University (Master's Degree)<br>👨‍💻 Feel free to explore my projects at: [https://github.com/ShaunakAudioAlchemy?tab=repositories](https://github.com/sranade98?tab=repositories)
-
-# 💫 About Me:
-🔭 Worked on Foley Sound Synthesis using GPT-2 and EnCodec for my Master's Thesis <br>👯 Collaborating on a research project focused on enhancing externalization of binaural audio
-
+🪴 Software engineer specializing in Digital Signal Processing, Immersive Audio, and Audio Perception <br> 👨‍🎓 Studied Music Technology at New York University (Master's Degree)<br>👨‍💻 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sranade98) 
