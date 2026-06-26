@@ -21,13 +21,10 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Tech Stack</i></b> 
 </div>
 
-<div style="background-color: #f0f0f0; padding: 15px; border-radius: 5px;">
-    This paragraph will have a light gray background.
-
 
 <br>
   
-<p style="display: inline-block;" align="center">
+<p style="display: inline-block;" align="center", background-color:"green">
    <kbd>
     <kbd>Back-end</kbd>
     <br>
