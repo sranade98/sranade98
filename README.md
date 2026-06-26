@@ -74,6 +74,8 @@ Currently building audio software at **GetNoisy**.
 
 <br><br>
 
+<p align="center">
+
 <kbd>
 <kbd>Libraries</kbd>
 <br><br>
@@ -92,21 +94,9 @@ Currently building audio software at **GetNoisy**.
 <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"/>
 <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"/>
 <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png"/>
-<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cmake.png"/>
 
 </kbd>
-
 </p>
-
----
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sranade98&show_icons=true&theme=radical"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sranade98&layout=compact&theme=radical"/>
-
-</div>
 
 ---
 
