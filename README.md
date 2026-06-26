@@ -10,10 +10,11 @@
 
 <div align="left">
 <fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
-  <legend align="left"><h3>👩🏻‍💻 Sobre Mim</h3></legend>
+  <legend align="left"><h3>👩🏻‍💻 About me </h3></legend>
 
   <em>
-Sou uma desenvolvedora Back-End e estudante do 2° semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Fatec Mogi das Cruzes</strong>. Minha jornada na tecnologia começou com o ensino médio técnico em Informática para a Internet, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.</p>
+    I am a audio software developing specializing in digital signal processing, immersive audio, applcation development. 
+    Currently at GetNoisy </p>
   </em> 
   <br>
 <div align= "center">
