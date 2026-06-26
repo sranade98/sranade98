@@ -12,7 +12,7 @@ Audio Software Engineer • Digital Signal Processing • Immersive Audio
 
 <td width="30%">
 
-<img width="240" src="YOUR_GIF_URL_HERE"/>
+<img width="240" src="tintin-wave.gif"/>
 
 </td>
 </tr>
