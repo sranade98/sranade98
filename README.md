@@ -24,7 +24,7 @@
 
 <br>
   
-<p style="display: inline-block;" align="center", background-color:"green">
+<p style="display: inline-block;" align="center">
    <kbd>
     <kbd>Back-end</kbd>
     <br>
