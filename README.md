@@ -15,7 +15,7 @@ Audio Software Engineer • Digital Signal Processing • Immersive Audio
 
 <img align="right" width="240" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-<p align="center">
+
   
 ## 👨‍💻 About Me
 
@@ -28,7 +28,7 @@ I'm an **Audio Software Engineer** specializing in:
 - 💻 Full-Stack Application Development
 
 Currently building audio software at **GetNoisy**.
-</div>
+
 ---
 
 <p align="center">
