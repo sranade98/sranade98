@@ -12,7 +12,7 @@ Audio Software Engineer | DSP | Immersive Audio
 <img width="180" src="tintin-wave.gif"/>
 </div>
 
-<p align="center">
+<p align="top">
   <a href="mailto:ssranade98@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
