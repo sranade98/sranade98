@@ -1,7 +1,22 @@
-<h1 align="center">Hi, I'm Shaunak 👋</h1>
-<h3 align="center">
+<table>
+<tr>
+<td width="70%">
+
+<h1>Hi, I'm Shaunak 👋</h1>
+
+<h3>
 Audio Software Engineer • Digital Signal Processing • Immersive Audio
 </h3>
+
+</td>
+
+<td width="30%">
+
+<img width="240" src="YOUR_GIF_URL_HERE"/>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="mailto:ssranade98@gmail.com">
