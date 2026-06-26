@@ -85,11 +85,12 @@ Currently building audio software at **GetNoisy**.
 
 <img height="40" src="https://img.shields.io/badge/JUCE-8DC63F?logo=juce&logoColor=white"/>
 <img height="40" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
+<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png"/>
+<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/scipy.png"/>
 
 <br><br>
 
-<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png"/>
-<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/scipy.png"/>
+
 
 </td>
 
