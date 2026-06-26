@@ -1,6 +1,4 @@
-<table cellspacing="0" cellpadding="0" border="2">
-<tr>
-<td width="75%" valign="top">
+<p align="left">
 
 <h1>Hi, I'm Shaunak 👋</h1>
 
@@ -8,15 +6,12 @@
 Audio Software Engineer | DSP | Immersive Audio
 </h3>
 
-</td>
+</p>
 
-<td width="25%" align="right" valign="top">
-
+<div align="right">
 <img width="120" src="tintin-wave.gif"/>
 
-</td>
-</tr>
-</table>
+
 
 <p align="center">
   <a href="mailto:ssranade98@gmail.com">
