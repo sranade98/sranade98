@@ -26,12 +26,15 @@
   
 <p style="display: inline-block;" align="center">
    <kbd>
-    <kbd>Back-end</kbd>
+    <kbd> Languages </kbd>
     <br>
     <br>
-    <img width="30px" src="https://img.icons8.com/color/48/python--v1.png" />
-    <img width="30px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-color-tal-revivo.png" />
-    <img width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/>
+    <img width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
+    <img width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/> 
+    <img width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
+    <img width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
+    <img width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
+    <img width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/>
   </kbd>
   <kbd>
     <kbd>Front-end</kbd>
@@ -45,8 +48,8 @@
     <kbd>Library/FrameWorks</kbd>
     <br>
     <br>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
+    <img width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/>
+    <img src="https://img.shields.io/badge/JUCE-8DC63F?logo=juce&logoColor=fff&style=plastic" alt="JUCE" title="JUCE"/>
     <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
   </kbd>
   <kbd>
