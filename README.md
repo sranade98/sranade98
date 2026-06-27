@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shaunak 👋</h1>
 
 <h3 align="center">
-Audio Software | Fullstack | Research
+Audio Software | Fullstack 
 </h3>
 
 <p align="center">
