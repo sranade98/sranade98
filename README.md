@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shaunak 👋</h1>
 
 <h3 align="center">
-Audio Software Engineer | DSP | Immersive Audio
+Audio Software | Fullstack | Research
 </h3>
 
 <p align="center">
