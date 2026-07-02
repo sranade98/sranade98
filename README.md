@@ -106,14 +106,7 @@ Currently building audio software at **GetNoisy**.
 
 ---
 
-## 🎯 Areas of Interest
 
-- Digital Signal Processing (DSP)
-- Audio Application Development
-- Music Information Retrieval (MIR)
-- Spatial & Immersive Audio
-- Audio Machine Learning
-- ADS-B & Software Defined Radio
 
 ---
 
